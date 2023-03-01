@@ -1,3 +1,6 @@
 [submodule "headernorm-42"]
 	path = headernorm-42
 	url = git@github.com:Juan-aga/headernorm-42.git
+[submodule "memory-leaks"]
+	path = memory-leaks
+	url = git@github.com:Juan-aga/memory-leaks.git
