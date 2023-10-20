@@ -7,3 +7,6 @@
 [submodule "Invoke-Obfuscation-Desobfuscation"]
 	path = Invoke-Obfuscation-Desobfuscation
 	url = git@github.com:Juan-aga/Invoke-Obfuscation-Desobfuscation.git
+[submodule "Checker_headers_norminette_42"]
+	path = Checker_headers_norminette_42
+	url = git@github.com:Juan-aga/Checker_headers_norminette_42.git
