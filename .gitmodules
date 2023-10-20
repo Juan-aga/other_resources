@@ -4,3 +4,6 @@
 [submodule "memory-leaks"]
 	path = memory-leaks
 	url = git@github.com:Juan-aga/memory-leaks.git
+[submodule "Invoke-Obfuscation-Desobfuscation"]
+	path = Invoke-Obfuscation-Desobfuscation
+	url = git@github.com:Juan-aga/Invoke-Obfuscation-Desobfuscation.git
