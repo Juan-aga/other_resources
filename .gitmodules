@@ -10,3 +10,6 @@
 [submodule "Checker_headers_norminette_42"]
 	path = Checker_headers_norminette_42
 	url = git@github.com:Juan-aga/Checker_headers_norminette_42.git
+[submodule "Checker_functions_allowed_42"]
+	path = Checker_functions_allowed_42
+	url = git@github.com:Juan-aga/Checker_functions_allowed_42.git
